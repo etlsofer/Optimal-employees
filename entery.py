@@ -119,7 +119,7 @@ class GraphicBoard:
         self.AddTitle("Welcome to Distributor")
         self.AddLogo("logo/logo2.png")
         #define images and bg
-        self.AddBg("image1.jpeg",4)
+        self.AddBg("files/image1.jpeg",4)
         #define bottom
         self.AddFrame(10,10, 1,0,4)
         self.AddButtonToLastFrame(self.button_list)
