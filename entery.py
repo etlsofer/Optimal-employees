@@ -41,7 +41,7 @@ class GraphicBoard:
 
     def DestroyFrame(self, frame):
         frame.destroy()
-
+        
     def AddMenu(self):
         self.menubar = Menu(self.root,bg=self.color)
 
@@ -138,5 +138,6 @@ button_list = [("Load", press.PressLoad), ("Enter hours",press.EnterHours), ("Ad
 
 
 #main
-GraphicBoard(button_list).StartWindow()
+if __name__ == "__main__":
+    GraphicBoard(button_list).StartWindow()
 
