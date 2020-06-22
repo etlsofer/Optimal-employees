@@ -1,9 +1,9 @@
 # Optimal employees
 Embedding software works optimally. Including - taking data from the email, automatically sending an email with the results and alerts on work problems
 
-To run the software you need to run the entery.py
+#To run the software you need to run the entery.py
 
-Table of Contents
+#Table of Contents
 
 1. Introduction
 2. A general explanation of the software
@@ -86,13 +86,15 @@ The result will be printed to an XL file that looks like this -
 The above file can be sent back to the employees by clicking Send Monthly Arrangement Well complete the work arrangement, also the employee will receive an SMS warning that the arrangement is ready.
 Note - The system also has an automatic result mechanism that makes file loading and printing to the file automatically and fast.
 
-Gadgets
+#Gadgets
+
 The software has an alert mechanism that can alert you to problems such as the disadvantage of working groups or overlap with the area.
  
 
 Future Goals - Identify an employee who has not finished his job on time and be alerted.
 
-Future Goals
+#Future Goals
+
 - Built-in price list in software that knows how to price each item by quantity, size, and type of order.
 - Adding posters that are intended for distribution (currently files exist but need to be integrated into the software) and their work status.
 - Submit a weekly work arrangement containing the information about the posters they need to hang and for those on the boards.
