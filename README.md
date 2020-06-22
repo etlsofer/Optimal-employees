@@ -2,11 +2,11 @@
 Embedding software works optimally. Including - taking data from the email, automatically sending an email with the results and alerts on work problems
 
 #To run the software you need to run the entery.py
-input.py - This script receives the employee file input file and makes it a file that the algorithm knows to decode.
-output.py - This script takes the algorithm output and turns it into a work arrangement that can be sent to employees.
-distribution.py - This script knows how to find an optimal working arrangement (the input is received from the input file and moves to the output file for processing).
-press.py - This script is responsible for the graphic part of the software and includes the first 2 sections. one for the main window and the second for the secondary windows.
-topwindow.py - This script contains the functions of the secondary graphics windows in the software.
+#input.py - This script receives the employee file input file and makes it a file that the algorithm knows to decode.
+#output.py - This script takes the algorithm output and turns it into a work arrangement that can be sent to employees.
+#distribution.py - This script knows how to find an optimal working arrangement (the input is received from the input file and moves to #the output file for processing).
+#press.py - This script is responsible for the graphic part of the software and includes the first 2 sections. one for the main window #and the second for the secondary windows.
+#topwindow.py - This script contains the functions of the secondary graphics windows in the software.
 
 #Table of Contents
 
