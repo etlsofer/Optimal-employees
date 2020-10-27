@@ -7,7 +7,7 @@ cloudpickle==1.2.2
 colorama==0.4.3
 Columnar==1.3.1
 constraints==0.9.5
-cryptography==2.8
+cryptography==3.2
 cycler==0.10.0
 decision-tree-id3==0.1.2
 decorator==4.4.1
