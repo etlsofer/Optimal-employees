@@ -64,7 +64,7 @@ python-dateutil==2.8.1
 python-onedrive==15.10.5
 pytz==2019.3
 pywin32==227
-PyYAML==5.3.1
+PyYAML==5.4
 ReliefF==0.1.2
 requests==2.23.0
 rsa==4.0
