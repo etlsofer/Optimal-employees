@@ -38,7 +38,7 @@ mlxtend==0.17.2
 networkx==2.4
 nexmo==2.4.0
 nose==1.3.7
-numpy==1.17.4
+numpy==1.22.0
 oauth2client==4.1.3
 onedrivesdk==2.0
 opencv-python==4.1.2.30
